@@ -1,0 +1,288 @@
+[
+    {
+      "id": 1,
+      "name": "Bengali Bhuna Khichuri",
+      "description": "A flavorful mix of rice and lentils cooked with aromatic spices.",
+      "img": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/05/Bhuna-khichuri-recipe.jpg",
+      "chefName": "Farida Rahman",
+      "category":1,
+      "minutesToCook": 40,
+      "ingredients": [
+        "1 cup Basmati rice",
+        "1/2 cup split yellow lentils",
+        "2 tablespoons ghee",
+        "1 large onion, finely chopped",
+        "1 teaspoon cumin powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon turmeric powder",
+        "Salt to taste",
+        "4 cups water"
+      ],
+      "recipe": [
+        "1. Wash rice and lentils together. Set aside.",
+        "2. Heat ghee in a pot, add chopped onions, and sauté until golden brown.",
+        "3. Add cumin, coriander, and turmeric powders. Sauté for a minute.",
+        "4. Add washed rice and lentils, mix well, and sauté for a few minutes.",
+        "5. Add water and salt. Bring to a boil and then simmer until rice and lentils are tender.",
+        "6. Serve hot and enjoy!"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dhaka Biryani",
+      "description": "Spicy and aromatic biryani with marinated meat and fragrant rice.",
+      "img": "https://speedingmoped.files.wordpress.com/2023/02/biryani.jpg",
+      "chefName": "Farida Rahman",
+      "category":1,
+      "minutesToCook": 60,
+      "ingredients": [
+        "2 cups basmati rice",
+        "500g chicken, cut into pieces",
+        "1/2 cup yogurt",
+        "1 teaspoon cumin powder",
+        "1 teaspoon coriander powder",
+        "1 teaspoon garam masala",
+        "Salt to taste",
+        "2 potatoes, peeled and halved",
+        "4 tablespoons ghee",
+        "Fried onions for garnish"
+      ],
+      "recipe": [
+        "1. Marinate chicken with yogurt, cumin, coriander, garam masala, and salt. Refrigerate for an hour.",
+        "2. In a pot, boil rice until 70% cooked. Drain and set aside.",
+        "3. In a separate pan, cook marinated chicken until partially done.",
+        "4. In a biryani pot, layer partially cooked rice and partially cooked chicken.",
+        "5. Add ghee, fried onions, and finish cooking on low heat until rice and chicken are fully cooked.",
+        "6. Serve hot with raita. Enjoy!"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ilish Bhapa",
+      "description": "Hilsa fish marinated with mustard paste and then steamed to perfection.",
+      "img": "https://speakingaloud.in/wp-content/uploads/2022/09/Bhapa-Ilish.jpg",
+      "chefName": "Nadia Rahman",
+      "category":6,
+      "minutesToCook": 35,
+      "ingredients": [
+        "4 pieces Hilsa fish",
+        "4 tablespoons mustard paste",
+        "4-6 green chilies, finely chopped",
+        "1/2 teaspoon turmeric powder",
+        "Salt to taste",
+        "2 tablespoons mustard oil"
+      ],
+      "recipe": [
+        "1. Clean and wash the Hilsa fish pieces.",
+        "2. In a bowl, mix mustard paste, chopped green chilies, turmeric powder, and salt.",
+        "3. Marinate the fish pieces with the mustard mixture. Let it sit for 30 minutes.",
+        "4. Wrap the marinated fish pieces in banana leaves and secure with toothpicks.",
+        "5. Steam the wrapped fish for about 20-25 minutes.",
+        "6. Heat mustard oil and pour it over the steamed fish before serving. Enjoy!"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Panta Bhat with Fried Hilsa",
+      "description": "Fermented rice soaked in water served with fried hilsa fish.",
+      "img": "https://images.squarespace-cdn.com/content/v1/5ea5f3913b0ccf06d0ec2563/1591994705915-J8GM6F2ATPVQ5HZF4JAK/4.jpg",
+      "chefName": "Sohel Ahmed",
+      "category":2,
+      "minutesToCook": 50,
+      
+      "ingredients": [
+        "2 cups fermented rice (panta bhat)",
+        "4 pieces Hilsa fish",
+        "1/2 cup mustard oil",
+        "4-6 green chilies, finely chopped",
+        "Salt to taste"
+      ],
+      "recipe": [
+        "1. Soak fermented rice in water until it softens.",
+        "2. Clean and wash the Hilsa fish pieces. Sprinkle salt and turmeric on them.",
+        "3. Heat mustard oil in a pan and fry the fish until golden brown.",
+        "4. Mix chopped green chilies with the soaked fermented rice.",
+        "5. Serve the fried Hilsa with the soaked rice. Enjoy!"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Fuchka (Pani Puri)",
+      "description": "Crispy puris filled with spicy tamarind water, potatoes, and chickpeas.",
+      "img": "https://3.bp.blogspot.com/-tdIgnLYcJWE/XL-MepJdFgI/AAAAAAABYWw/HiX2ZU3v6OEt4aMrcgRMEk9AtAHYsI0kQCLcBGAs/s1600/00100lPORTRAIT_00100_BURST20190420151607025_COVER%2Bcopy.jpg",
+      "chefName": "Farida Rahman",
+      "category":1,
+      "minutesToCook": 25,
+      "ingredients": [
+        "20 puri shells",
+        "1 cup tamarind water",
+        "1 cup boiled and mashed potatoes",
+        "1/2 cup boiled chickpeas",
+        "Chaat masala",
+        "Mint chutney",
+        "Sev for garnish"
+      ],
+      "recipe": [
+        "1. Make a hole in the center of each puri shell.",
+        "2. Fill each puri with mashed potatoes and boiled chickpeas.",
+        "3. Pour tamarind water into each puri.",
+        "4. Sprinkle chaat masala on top and add mint chutney to taste.",
+        "5. Garnish with sev. Serve immediately and enjoy!"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Rui Macher Jhol",
+      "description": "Spicy Bengali-style Rohu fish curry with vegetables.",
+      "img": "https://efoodsdirect.co.uk/wp-content/uploads/2021/09/rui_11zon1.jpg",
+      "chefName": "Amit Choudhury",
+      "category":3,
+      "minutesToCook": 30,
+      "ingredients": [
+        "500g Rohu fish",
+        "2 potatoes, cut into wedges",
+        "1 tomato, chopped",
+        "1 teaspoon turmeric powder",
+        "1 teaspoon red chili powder",
+        "1 teaspoon cumin powder",
+        "Mustard oil for cooking",
+        "Salt to taste"
+      ],
+      "recipe": [
+        "1. Clean and wash the Rohu fish. Marinate with turmeric and salt.",
+        "2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.",
+        "3. In the same oil, add cumin powder, turmeric powder, and red chili powder.",
+        "4. Add chopped tomatoes and sauté until the oil separates.",
+        "5. Add potato wedges and sauté for a few minutes.",
+        "6. Add water, salt, and bring to a boil. Add the fried fish and simmer until potatoes are cooked.",
+        "7. Serve hot with steamed rice. Enjoy!"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Begun Bhorta",
+      "description": "Mashed spicy eggplant served with rice or flatbread.",
+      "img": "https://4.bp.blogspot.com/-AE6l6L3fgHQ/UYGnFnjfOHI/AAAAAAAAAkU/MxGMx8Vs10w/s1600/begun+bhorta.JPG",
+      "chefName": "Sohel Ahmed",
+      "category":2,
+      "minutesToCook": 20,
+      "ingredients": [
+        "2 large eggplants",
+        "2 green chilies, finely chopped",
+        "1 small onion, finely chopped",
+        "1/2 teaspoon mustard oil",
+        "Salt to taste"
+      ],
+      "recipe": [
+        "1. Roast the eggplants until the skin is charred and the flesh is soft.",
+        "2. Peel the skin and mash the eggplant flesh.",
+        "3. Add chopped green chilies, chopped onions, and salt.",
+        "4. Drizzle mustard oil on top and mix well.",
+        "5. Serve with rice or flatbread. Enjoy!"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Chitol Macher Muitha",
+      "description": "Fish ball curry made from chitol fish.",
+      "img": "https://geekrobocook.com/wp-content/uploads/2021/04/Chital-macher-muitha.jpg",
+      "chefName": "Anwar Islam",
+      "category":4,
+      "minutesToCook": 45,
+      "ingredients": [
+        "500g Chitol fish, boneless and minced",
+        "1/2 cup Bengal gram (chana dal), soaked",
+        "1 teaspoon ginger paste",
+        "1 teaspoon garlic paste",
+        "1 teaspoon cumin powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon red chili powder",
+        "Mustard oil for cooking",
+        "Salt to taste"
+      ],
+      "recipe": [
+        "1. Grind the soaked Bengal gram into a smooth paste.",
+        "2. In a bowl, mix minced Chitol fish, Bengal gram paste, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, and salt.",
+        "3. Shape the mixture into small balls (muitha).",
+        "4. Heat mustard oil in a pan and fry the fish balls until golden brown.",
+        "5. In the same oil, add cumin and coriander powder. Add water to make a curry.",
+        "6. Add the fried fish balls and simmer until cooked through.",
+        "7. Serve with steamed rice. Enjoy!"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Shak Shobji",
+      "description": "Mixed greens cooked with mustard paste and spices.",
+      "img": "https://kitchengatherings.com/wp-content/uploads/lai-shak-fb.jpg",
+      "chefName": "Rehana Chowdhury",
+      "category":5,
+      "minutesToCook": 35,
+      "ingredients": [
+        "4 cups mixed greens (spinach, mustard greens, fenugreek)",
+        "1 tablespoon mustard paste",
+        "2-3 green chilies, finely chopped",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon red chili powder",
+        "Mustard oil for cooking",
+        "Salt to taste"
+      ],
+      "recipe": [
+        "1. Clean and wash the mixed greens. Chop them finely.",
+        "2. In a pan, heat mustard oil and sauté chopped greens until wilted.",
+        "3. Add mustard paste, chopped green chilies, turmeric powder, red chili powder, and salt.",
+        "4. Cook until the greens are tender and the flavors are well blended.",
+        "5. Serve as a side dish with rice or flatbread. Enjoy!"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Misti Doi",
+      "description": "Sweetened yogurt, a popular dessert in Bangladesh.",
+      "img": "https://bakewithshivesh.com/wp-content/uploads/2023/04/mishti-doi-scaled.jpg",
+      "chefName": "Rehana Chowdhury",
+      "category":5,
+      "minutesToCook": 15,
+      "ingredients": [
+        "2 cups full-fat milk",
+        "1/2 cup sugar",
+        "1/4 cup plain yogurt (as a starter)"
+      ],
+      "recipe": [
+        "1. Boil the milk and let it cool to lukewarm temperature.",
+        "2. Add sugar to the lukewarm milk and stir until dissolved.",
+        "3. Add a few tablespoons of plain yogurt as a starter and mix well.",
+        "4. Pour the mixture into individual containers.",
+        "5. Cover and keep in a warm place for fermentation (about 8-10 hours or overnight).",
+        "6. Once set, refrigerate until chilled.",
+        "7. Serve cold and enjoy this sweet treat!"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Bhapa Pitha",
+      "description": "Steamed rice cakes filled with jaggery and grated coconut.",
+      "img": "https://i.ytimg.com/vi/uncBEqiDIKA/maxresdefault.jpg",
+      "chefName": "Nadia Rahman",
+      "category":6,
+      "minutesToCook": 40,
+      "ingredients": [
+        "1 cup rice flour",
+        "1 cup jaggery, grated",
+        "1/2 cup grated coconut",
+        "1/2 teaspoon cardamom powder",
+        "Water for batter"
+      ],
+      "recipe": [
+        "1. Mix rice flour with water to make a smooth batter.",
+        "2. In a separate bowl, mix grated jaggery, grated coconut, and cardamom powder.",
+        "3. Grease the molds for steaming with oil.",
+        "4. Pour a layer of rice flour batter into each mold.",
+        "5. Add a spoonful of the jaggery and coconut mixture on top.",
+        "6. Cover with more rice flour batter, filling the molds.",
+        "7. Steam the filled molds for about 20-25 minutes.",
+        "8. Allow them to cool slightly before serving. Enjoy!"
+      ]
+    }
+]
